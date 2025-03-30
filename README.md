@@ -28,7 +28,7 @@ Sou o Pablo Silva, tenho 20 anos e atualmente sou estudante de Sistemas de Infor
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablosilva2004&show_icons=true&theme=radical" height="180">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosilva2004&layout=compact&theme=radical" height="180">
-  <img align="center" src="https://cdn.discordapp.com/attachments/1295992330888941618/1353571606852669450/like-new.gif?ex=67e2234b&is=67e0d1cb&hm=ba38811435c356cb80321ad24a669ab2685c2a37d62788ffdb43c4488c53bc13&" height="180">
+  <img align="right" src="https://cdn.discordapp.com/attachments/1295992330888941618/1353571606852669450/like-new.gif?ex=67e2234b&is=67e0d1cb&hm=ba38811435c356cb80321ad24a669ab2685c2a37d62788ffdb43c4488c53bc13&" height="180">
 </div>
 
 
