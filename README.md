@@ -1,8 +1,16 @@
-## Salve! Bem-vindo(a) ao meu perfil 🤗
+<div align="center">
+  <p>My name is Pablo Silva, i am 20 years old and an Information Systems student at Faci Wyden in Belém, Pará.<br>I am an independent game developer and founder of [Scenery Games](https://scenery-games.itch.io/).</p>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="75%">
+</div>
 
-Sou o Pablo Silva, tenho 20 anos e atualmente sou estudante de Sistemas de Informação na faculdade [Faci Wyden](https://www.google.com/search?q=faci+wyden&oq=faci+wyden&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBCTIyNTBqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8). Atuo na área de desenvolvimento de jogos desde 2019 usando Unity e C# e sou [criador de conteúdo gamer](https://www.youtube.com/@sn4kedev), sempre em busca de conhecimento porque vontade não falta!
+--- 
+<div align="center">
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pablosilva2004&show_icons=true&theme=radical" />
+  <img width="20%" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" />
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosilva2004&layout=compact&theme=radical" />
+</div>
 
-## O que estou aperfeiçoando 😎
+## My Skills 😎
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" />
@@ -27,12 +35,6 @@ Sou o Pablo Silva, tenho 20 anos e atualmente sou estudante de Sistemas de Infor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" />
 </div>
 
-## Minhas estatísticas 😇
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pablosilva2004&show_icons=true&theme=radical" height="120">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosilva2004&layout=compact&theme=radical" height="120">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" height="120" >
-</div>
 
 
 
