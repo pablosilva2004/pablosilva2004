@@ -13,7 +13,7 @@
 
 ---
 
-## My Skills 😎
+## My Skills 😇
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="40" alt="Unity" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" height="40" alt="CSharp" />
@@ -23,10 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" height="40" />
 </div>
-          
-## O que estou aprendendo/quero aprender 🥰
+             
+## Learning 📖
 <div style="display: inline-block"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" height="40" />
