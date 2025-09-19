@@ -4,18 +4,22 @@
 </div>
 
 --- 
+
 <div align="center">
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pablosilva2004&show_icons=true&theme=radical" />
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pablosilva2004&show_icons=true&theme=highcontrast" />
   <img width="20%" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" />
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosilva2004&layout=compact&theme=radical" />
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosilva2004&layout=compact&theme=highcontrast" />
 </div>
+
+---
 
 ## My Skills 😎
 <div style="display: inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="40" alt="Unity" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" height="40" alt="CSharp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" height="40" />
@@ -25,6 +29,7 @@
 ## O que estou aprendendo/quero aprender 🥰
 <div style="display: inline-block"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" />
