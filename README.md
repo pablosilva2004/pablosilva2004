@@ -1,5 +1,5 @@
 <div align="center">
-  <p>My name is Pablo Silva, i am 20 years old and an Information Systems student at Faci Wyden in Belém, Pará.<br>I am an independent game developer and founder of [Scenery Games](https://scenery-games.itch.io/).</p>
+  <p>My name is Pablo Silva, i am 20 years old and an Information Systems student at Faci Wyden in Belém, Pará.<br>I am an independent game developer and founder of Scenery Games. </p>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="75%">
 </div>
 
