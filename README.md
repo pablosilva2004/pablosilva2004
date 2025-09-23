@@ -1,5 +1,6 @@
 <div align="center">
-  <p>Sou o Pablo Silva, tenho 20 anos e estou cursando Sistemas de Informação na Faci Wyden em Belém, Pará.<br>Sou desenvolvedor de jogos independente e dono da Scenery Games!<br>Atualmente estou estudando inglês, aprimorando meus conhecimentos de Unity + C# e trabalhando nas minhas soft e hard skills.<br><br>Assim como as flores, para florir é preciso superar um inverno.</p>
+  <h4>Sou o Pablo Silva, tenho 20 anos e estou cursando Sistemas de Informação na Faci Wyden em Belém, Pará.<br>Sou desenvolvedor de jogos independente e dono da Scenery Games!<br>Atualmente estou estudando inglês, aprimorando meus conhecimentos de Unity + C# e trabalhando nas minhas soft e hard skills.<br></h4>
+  <h3>"Assim como as flores, para florir é preciso superar um inverno."</h3>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="75%">
 </div>
 
