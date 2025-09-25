@@ -7,7 +7,6 @@
 --- 
 
 <div align="center">
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pablosilva2004&locale=pt-br&include_all_commits=true&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
   <img width="20%" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" />
   <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosilva2004&locale=pt-br&layout=compact&theme=highcontrast" alt="Languages Stats" />
 </div>
