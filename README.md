@@ -29,7 +29,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 
-## My Skills 😇
+## 🤩 My Skills
 <div style="display: inline-block">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="40" alt="Unity" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="CSharp" /></code>
@@ -43,7 +43,7 @@
 </div>
 
 
-## Learning 📖
+## 📖 Learning
 <div style="display: inline-block"> 
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" alt="Godot" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" /></code>
