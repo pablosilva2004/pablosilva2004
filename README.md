@@ -1,6 +1,6 @@
 ## 🤗Sou o Pablo!
 
-😊 Tenho 20 anos e estou cursando Sistemas de Informação na Faci Wyden em Belém, Pará.<br>
+😊 Tenho 21 anos e estou cursando Sistemas de Informação na Faci Wyden em Belém, Pará.<br>
 🔮 Sou desenvolvedor de jogos independente e dono da [Scenery Games](https://scenery-games.itch.io/)!<br>
 🤓 Atualmente estou estudando inglês, desenvolvimento Web, aprimorando meus conhecimentos de Unity com C# e trabalhando minhas soft e hard skills.<br><br>
 👇 <strong>PODEMOS ENTRAR EM CONTATO!<br></strong>
