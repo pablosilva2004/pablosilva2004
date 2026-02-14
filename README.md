@@ -18,12 +18,7 @@
 
 <div align="center">
   <strong>"As melhores coisas da vida acontecem depois de alguns dos nossos maiores erros."</strong>
-  <img width="70%" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
-</div>
-
-<div align="center">
-  <img width="20%" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" />
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosilva2004&locale=pt-br&layout=compact&theme=highcontrast" alt="Languages Stats" />
+  <img width="70%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
